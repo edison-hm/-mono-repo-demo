@@ -1,0 +1,19 @@
+{
+  "name": "bops-component",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "edison_hm <490276219@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/bops-component.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
