@@ -2,5 +2,13 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent"
+  "version": "independent",
+  "changelog": {
+    "repo": "edison-hm/mono-repo-demo",
+    "labels": {
+      "tag: bugfix": "Bug fix",
+      "tag: enhancement": "Enhancement"
+    },
+    "cacheDir": ".changelog"
+  }
 }
