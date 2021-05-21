@@ -1,6 +1,6 @@
 {
   "packages": [
-    "packages/*"
+    "packages/bops-component"
   ],
   "version": "independent",
   "changelog": {
@@ -10,5 +10,7 @@
       "tag: enhancement": "Enhancement"
     },
     "cacheDir": ".changelog"
-  }
+  },
+  "npmClient": "yarn",
+  "useWorkspaces": true
 }
